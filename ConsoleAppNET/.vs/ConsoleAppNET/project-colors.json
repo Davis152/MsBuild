@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5928fe05-8f82-4c91-a876-9f96cd1b8735": {
+      "ProjectGuid": "5928fe05-8f82-4c91-a876-9f96cd1b8735",
+      "DisplayName": "ConsoleAppNET",
+      "ColorIndex": 0
+    },
+    "c7f7d67f-d86b-42a5-96bd-64b97a639ce1": {
+      "ProjectGuid": "c7f7d67f-d86b-42a5-96bd-64b97a639ce1",
+      "DisplayName": "XunitTestProject1",
+      "ColorIndex": 1
+    },
+    "360c279a-c47b-405f-a056-dd5d2e517187": {
+      "ProjectGuid": "360c279a-c47b-405f-a056-dd5d2e517187",
+      "DisplayName": "MsTestProject1",
+      "ColorIndex": 2
+    },
+    "57b95370-1926-4353-a700-ca925472c946": {
+      "ProjectGuid": "57b95370-1926-4353-a700-ca925472c946",
+      "DisplayName": "NUnitTestProject1",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}
