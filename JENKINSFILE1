@@ -1,10 +1,26 @@
 pipeline {
     agent any
     stages {
-        stage('build') {
+        stage('stage 1') {
             steps {
                 bat 'whoami'
             }
         }
+        stage('stage 2') {
+            steps {
+                bat 'whoami'
+            }
+        }
+        stage('stage 3') {
+            steps {
+                bat 'whoami'
+            }
+        }
+        stage('stage 4') {
+            steps {
+                bat 'whoami'
+            }
+        }
+        
     }
 }
